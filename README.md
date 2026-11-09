@@ -1,4 +1,8 @@
-# Olá, eu sou o Bruno Silva 👨🏻‍💻
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66FF&height=180&section=header&text=Bruno%20Silva&fontColor=ffffff&fontSize=50&animation=fadeIn)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+Flask+%7C+React+%7C+Next.js;Estudante+de+ADS+na+UNICID" alt="Typing SVG" />
+</p>
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID e desenvolvedor **Full Stack** em formação.
 Gosto de transformar ideias em aplicações completas, do banco de dados à interface.
