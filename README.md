@@ -1,11 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66FF&height=180&section=header&text=Bruno%20Silva&fontColor=ffffff&fontSize=50&animation=fadeIn)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Python+%7C+Flask+%7C+React+%7C+Next.js;Estudante+de+ADS+na+UNICID" alt="Typing SVG" />
+  <img src="banner.svg" alt="Bruno Silva — Desenvolvedor Full Stack" width="100%" />
 </p>
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID e desenvolvedor **Full Stack** em formação.
-Gosto de transformar ideias em aplicações completas, do banco de dados à interface.
+Desenvolvedor **Full Stack** em formação. Gosto de transformar ideias em aplicações completas, do banco de dados à interface.
 
 ### 🚀 Projeto em destaque
 
@@ -30,18 +27,3 @@ Gosto de transformar ideias em aplicações completas, do banco de dados à inte
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvaxzy.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-2846192aa)
-
-<!--
-**Silvaxzy/Silvaxzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
